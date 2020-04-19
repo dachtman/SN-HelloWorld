@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>message</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 22:39:15</sys_created_on>
+        <sys_data_policy display_value="Sets the Message field to mandatory">ed3ea9912f1810103bf2f64ef699b626</sys_data_policy>
+        <sys_id>a13ea9912f1810103bf2f64ef699b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>message</sys_name>
+        <sys_package display_value="Hello world" source="x_485232_hello_wor">a19da59d2f1410103bf2f64ef699b692</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello world">a19da59d2f1410103bf2f64ef699b692</sys_scope>
+        <sys_update_name>sys_data_policy_rule_a13ea9912f1810103bf2f64ef699b62a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 22:39:15</sys_updated_on>
+        <table>x_485232_hello_wor_message</table>
+    </sys_data_policy_rule>
+</record_update>
